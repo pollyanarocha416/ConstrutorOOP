@@ -13,7 +13,6 @@ namespace ConstrutorOOP
         {
             Console.WriteLine("Construtor executado");
         }
-
         public Pessoa(string nome)
         {
             Console.WriteLine("Olá " + nome);
